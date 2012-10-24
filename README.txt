@@ -46,3 +46,5 @@ If you downloaded from github
   install the Miniwave plugin.
 
 ****************** Change log *******************
+24/10/12
+- Fixed main content token.
